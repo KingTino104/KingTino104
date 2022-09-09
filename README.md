@@ -1,3 +1,4 @@
+[![Welcome](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=30&center=true&vCenter=true&width=520&lines=Hi!;Nice+to+meet+you!;My+name+is+KingTino!)
 [![LOGO](https://i.imgur.com/3Firjoo.png)
 
 - 👋 Hi, I’m @KingTino104
