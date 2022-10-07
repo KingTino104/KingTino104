@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m @KingTino104
 - 👀 I’m interested in coding but i have no idea how to code.
+- 😺 The best & smartest kitten in the world is [Flame Kitten](https://github.com/zvikasdongre).
 
   - Discord: https://discord.gg/YjjGZBJsur
 
