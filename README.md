@@ -4,7 +4,7 @@
 - 👀 I’m interested in coding but i have no idea how to code.
 - 😺 The best & smartest kitten in the world is [Flame Kitten](https://github.com/zvikasdongre).
 
-  - Discord: https://discord.gg/YjjGZBJsur
+  - Discord: KingTino#1366
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kingtino104&theme=nightowl&show_icons=true)
 
