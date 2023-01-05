@@ -7,5 +7,5 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KingTino104&theme=radical&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingTino104&layout=compact&theme=nightowl)](https://angelillo15.es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingTino104&layout=compact&theme=nightowl)
 
